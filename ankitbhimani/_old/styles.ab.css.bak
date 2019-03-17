@@ -1,0 +1,2 @@
+li#znet_banner a[target="_blank"],
+li#my_email a[target="_blank"]{padding:0 !important;background-color:transparent !important;}
